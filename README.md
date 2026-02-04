@@ -70,3 +70,12 @@ FoodExpress/
 
 Khair Baksh Noor
 🌱 Frontend Developer | Web Enthusiast
+
+<div align="center">
+
+## 🌐✨ Live Demo
+
+🚀 **Live version of FoodExpress:**  
+👉 https://khairbakshnoor-pixel.github.io/Bano-Qabil-Final-paper-project/
+
+</div>
