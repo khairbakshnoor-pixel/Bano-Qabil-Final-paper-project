@@ -52,7 +52,7 @@ FoodExpress/
 ├── 📘 README.md     → Project documentation  
 
 
-🧠✨ How It Works
+# 🧠✨ How It Works
 
 🟢 Restaurants are loaded dynamically using JavaScript
 🟢 Filters update restaurant cards instantly
