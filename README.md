@@ -41,11 +41,9 @@ Users can explore restaurants, filter categories, add food items to a cart, and 
 ⚙️ **JavaScript (Vanilla JS)** – Dynamic content & cart logic  
 📐 **Flexbox & Grid** – Responsive layouts  
 
----
 
-## 🗂️✨ Project Structure
+# 🗂️✨ Project Structure
 
-```text
 FoodExpress/
 │
 ├── 📄 index.html     → Main project file  
