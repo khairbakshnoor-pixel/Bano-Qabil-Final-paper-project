@@ -59,3 +59,16 @@ FoodExpress/
 🟢 Clicking a restaurant adds demo items to cart
 🟢 Cart auto-updates quantities & total price
 🟢 Checkout clears the cart and confirms the order
+
+🚀✨ Future Enhancements
+
+🔐 User authentication
+🌐 Backend integration
+💳 Payment gateway
+📦 Order history
+📱 Mobile-first enhancements
+
+👨‍💻✨ Author
+
+Khair Baksh Noor
+🌱 Frontend Developer | Web Enthusiast
