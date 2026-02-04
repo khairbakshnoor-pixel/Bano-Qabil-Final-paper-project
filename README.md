@@ -50,3 +50,12 @@ FoodExpress/
 │
 ├── 📄 index.html     → Main project file  
 ├── 📘 README.md     → Project documentation  
+
+
+🧠✨ How It Works
+
+🟢 Restaurants are loaded dynamically using JavaScript
+🟢 Filters update restaurant cards instantly
+🟢 Clicking a restaurant adds demo items to cart
+🟢 Cart auto-updates quantities & total price
+🟢 Checkout clears the cart and confirms the order
